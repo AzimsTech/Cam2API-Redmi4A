@@ -2,3 +2,7 @@ Enables camera EIS, HAL3, SlowMo in GCam, 30/60fps fix night time video. Revised
 
 Please note: stock MIUI Camera will stop working. You can remove it using Debloater Magisk Module
 (MiuiCamera^=/system/priv-app/MiuiCamera)
+
+## ChangeLog ##
+
+v.2 First release in Repository

@@ -1,6 +1,6 @@
 id=miui10camapi2
 name=MIUI 10 Camera API 2 Enabler
-version=2
+version=v2
 versionCode=5
 author=Gray Jack the Fixxxer
 description=Enables camera EIS, HAL3, SlowMo in GCam, 30/60fps fix night time video. Revised for MIUI 10. For Redmi 4X.
