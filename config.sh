@@ -105,6 +105,7 @@ device_fn() {
 DEVFND=0
 DEVICES="
 santoni~Android7.1.2_10
+santoni~Android7.1.2_11
 "
 # Device check
 for ITEM in $DEVICES; do
