@@ -5,4 +5,5 @@ Please note: stock MIUI Camera will stop working. You can remove it using Debloa
 
 ## ChangeLog ##
 
+v.3 Added MIUI 11 support
 v.2 First release in Repository
