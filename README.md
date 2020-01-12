@@ -24,3 +24,4 @@ This module also adds camera2api support in the build.prop systemlessly, so you 
 - [Redmi 4A thread - 4pda forum](https://w3bsit3-dns.com/forum/index.php?showtopic=788220&st=26980)
 - [Question thread - offical MIUI forum](https://en.miui.com/thread-4448807-1-1.html)
 - [Collection of Google Camera mods by Celso Azevedo](https://www.celsoazevedo.com/files/android/google-camera/)
+- Magisk module install script is taken from [gjf/miui10camapi2](https://github.com/gjf/miui10camapi2)
