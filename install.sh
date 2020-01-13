@@ -164,6 +164,8 @@ DEVFND=0
 DEVICES="
 rolex~Android7.1.2_10
 rolex~Android7.1.2_11
+riva~Android7.1.2_10
+riva~Android7.1.2_11
 "
 # Device check
 for ITEM in $DEVICES; do
