@@ -1,7 +1,7 @@
 id=Cam2API-redmi4A
 name=Fix Camera2API in MIUI10 (Redmi4A/5A)
-version=v2
-versionCode=2
+version=v3
+versionCode=3
 author=AzimsTech
 description=Enable Camera2 API support in MIUI10 for Redmi 4A/5A
 support=https://azimstech.github.io/posts/2018-12-23-gcam-miui-10-fix-for-redmi-4a-5a/
