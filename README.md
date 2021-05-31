@@ -1,4 +1,4 @@
-# Fix Camera2API in MIUI10 (Redmi4A/5A)
+# This module is no longer maintained
 ## MIUI 10 Breaks Camera2 API Support Here's Magisk Module to Fix It
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40AzimsLives)](https://twitter.com/AzimsLives)
